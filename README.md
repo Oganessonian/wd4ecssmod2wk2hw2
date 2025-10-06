@@ -1,2 +1,1 @@
-# wd4ecssmod2wk2hw2
-Homework2 for Webdesignforeverybody CSS course Advance slelectors
+# week2-css-HW2 Advanced Selectors and Display
